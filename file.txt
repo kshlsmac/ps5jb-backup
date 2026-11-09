@@ -44,8 +44,6 @@ tr.facebook.com
 analytics.x.com
 ads.x.com
 widgets.pinterest.com
-graph.instagram.com
-i.instagram.com
 pixel.quora.com
 qevents.quora.com
 px.srvcs.tumblr.com
